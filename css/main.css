@@ -1,0 +1,27 @@
+.header{
+ 
+    height: 40%;
+    width: 100%;
+    background-color: red;
+}
+
+.nav-section{
+    height: 40%;
+    width: 100%;
+}
+
+.hero-section{
+    height: 60%;
+    width: 100%;
+}
+
+.skills-section{
+    height: 40%;
+    width: 100%;
+  
+}
+.web-container{
+   
+    height: 2000px;
+    width: 100%;
+}
