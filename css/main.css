@@ -2,12 +2,47 @@
  
     height: 25%;
     width: 100%;
-    background-color: red;
+   
 }
-
+.h-80{
+    height:80%;
+}
+.h-20{
+    height: 20%;
+}
+.size-font{
+    font-size:80px
+}
 .nav-section{
     height: 40%;
     width: 100%;
+}
+
+ul{
+
+    width: 80%;
+    text-align: center;
+
+    align-items: center;
+    /* margin:0 auto; */
+}
+li {
+    
+    color: #fff;
+   
+    height:100%;
+    width: 100px;
+    margin-left: 5%;
+    text-align: center;
+    align-items: center;
+}
+
+li a {
+    color: #fff;
+    background-color: #fff;
+    margin:0 auto;
+    text-align: center;
+    
 }
 
 .hero-section{
@@ -53,3 +88,6 @@
     width: 100%;
 }
 
+.down-section{
+    margin-top:30%;
+}
